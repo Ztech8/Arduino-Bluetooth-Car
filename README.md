@@ -9,7 +9,6 @@ This project demonstrates how to build a Bluetooth controlled car using an Ardui
 - [Installation](#installation)
 - [Usage](#usage)
 - [Commands](#commands)
-- [License](#license)
 
 ## Introduction
 The Bluetooth controlled car is a simple yet fun project that allows you to control the movement of a small car using commands sent from a Bluetooth-enabled device. The Arduino board acts as the brain of the car, processing the incoming Bluetooth commands and controlling the motors to make the car move in different directions.
