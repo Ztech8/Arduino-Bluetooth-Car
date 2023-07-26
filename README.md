@@ -1,4 +1,5 @@
 # Bluetooth Controlled Car using Arduino
+![Arduino_bluetooth](https://github.com/Ztech8/Arduino-Bluetooth-Car/assets/102862728/8cfe33d7-ca56-4fef-9221-af49ed8ce1e2)
 
 This project demonstrates how to build a Bluetooth controlled car using an Arduino board and a Bluetooth module. The car can be controlled remotely using a mobile phone or any other Bluetooth-enabled device.
 
